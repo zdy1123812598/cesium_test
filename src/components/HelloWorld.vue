@@ -80,6 +80,16 @@
         </a>
       </li>
     </ul>
+    <ul>
+      <li>
+        <a
+          href="#demo"
+          target="_blank"
+        >
+          demo
+        </a>
+      </li>
+    </ul>
   </div>
 </template>
 
